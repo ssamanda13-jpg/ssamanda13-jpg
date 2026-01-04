@@ -2,27 +2,28 @@
 
 ### Engenheira & Analista de Dados em Formação 📊⚙️
 
-Utilizo minha bagagem em **Engenharia de Produção e Ambiental** para transformar dados complexos em decisões estratégicas e processos eficientes. Tenho experiência sólida em gestão de **KPIs**, logística e auditoria em empresas de grande porte.
+Utilizo minha bagagem em **Engenharia de Produção e Ambiental** para transformar dados complexos em decisões estratégicas e processos eficientes. 
+Tenho experiência sólida em gestão de **KPIs**, logística e auditoria em empresas de grande porte.
 
 ---
 
 ## 🚀 Sobre mim
-- [cite_start]🎓 Realizando o **Bootcamp de Analista de Dados** na Generation Brasil (conclusão 02/2026).
-- [cite_start]🛠️ Especialista em resolver problemas de conformidade e automação de relatórios.
-- [cite_start]📈 Focada em criar dashboards de impacto que facilitam a visão operacional e estratégica.
+- 🎓 Realizando o **Bootcamp de Analista de Dados** na Generation Brasil (conclusão 02/2026).
+- 🛠️ Especialista em resolver problemas de conformidade e automação de relatórios.
+- 📈 Focada em criar dashboards de impacto que facilitam a visão operacional e estratégica.
 
 ## 🛠️ Tecnologias e Ferramentas
 | Área | Ferramentas |
 | :--- | :--- |
-| **Linguagens & Código** 🐍 | [cite_start]Python (Pandas, NumPy), SQL, Lógica de Programação |
-| **BI & Visualização** 📊 | [cite_start]Power BI, Tableau, Excel Avançado (Dashboards) |
-| **Gestão & Negócio** ⚙️ | [cite_start]SAP ERP, Six Sigma Green Belt, Metodologias Ágeis |
+| **Linguagens & Código** 🐍 | Python (Pandas, NumPy), SQL, Lógica de Programação |
+| **BI & Visualização** 📊 | Power BI, Tableau, Excel Avançado (Dashboards) |
+| **Gestão & Negócio** ⚙️ | SAP ERP, Six Sigma Green Belt, Metodologias Ágeis |
 
 ---
 
 ## 📫 Vamos nos conectar?
-- [cite_start]**LinkedIn:** [Amanda dos Santos Sousa](https://www.linkedin.com/in/amanda-dos-santos-sousa/)
-- [cite_start]**Email:** ss.amanda13@gmail.com
+- **LinkedIn:** Amanda dos Santos Sousa](https://www.linkedin.com/in/amanda-dos-santos-sousa/)
+- **Email:** ss.amanda13@gmail.com
 
 <!--
 **ssamanda13-jpg/ssamanda13-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
