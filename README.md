@@ -2,7 +2,7 @@
 
 ### Engenheira & Analista de Dados em Formação 📊⚙️
 
-[cite_start]Utilizo minha bagagem em **Engenharia de Produção e Ambiental** para transformar dados complexos em decisões estratégicas e processos eficientes[cite: 5, 6]. [cite_start]Tenho experiência sólida em gestão de **KPIs**, logística e auditoria em empresas de grande porte[cite: 28, 35, 36].
+Utilizo minha bagagem em **Engenharia de Produção e Ambiental** para transformar dados complexos em decisões estratégicas e processos eficientes. Tenho experiência sólida em gestão de **KPIs**, logística e auditoria em empresas de grande porte.
 
 ---
 
